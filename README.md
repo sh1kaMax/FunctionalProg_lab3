@@ -111,7 +111,7 @@ main = do
       putStrLn "End of the program"
 ```
 
-## Работа программы 
+## Работа программы
 
 ![out1](imgs/out1.png)
 ![out2](imgs/out2.png)
